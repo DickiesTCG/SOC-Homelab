@@ -3,7 +3,7 @@
 Hands-on blue-team projects: investigating network traffic and security logs, detecting attacker behaviour, and writing it up the way a SOC analyst would.
 
 **Background:** MSc Cyber Security (Distinction), Bournemouth University · Cisco Certified CyberOps Associate (CBROPS)
-**LinkedIn:** https://www.linkedin.com/in/samuel-d-b47839117
+**LinkedIn:** https://www.linkedin.com/in/samueldcyber
 
 ## Tools
 
